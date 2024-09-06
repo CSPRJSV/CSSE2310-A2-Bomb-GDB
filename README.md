@@ -32,9 +32,7 @@
 
 有需要 辅导 or VIP服务 的童鞋欢迎浏览个人主页传送与滴滴 ~
 
-![1](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-1.png)
-![3](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-3.jpg)
-![4](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-4.jpg)
-![2](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-2.png)
+![1](https://github.com/CSPRJSV/CSSE2310-A2-Bomb-GDB/blob/main/ad1.png)
+
 
 
